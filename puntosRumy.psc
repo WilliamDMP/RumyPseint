@@ -2,7 +2,7 @@ Proceso puntosRumy
 	
 	Escribir "Juego Rumy";
 	Escribir " ";
-	Escribir "El juego se basa en 10 juegos desde 2 cartas hasta 10 en donde";
+	Escribir "El juego se basa en 10 rondas desde 2 cartas hasta 10 en donde";
 	Escribir "Cada jugador intentará acumular la menor cantidad de puntos posibles";
 	Escribir " ";
 
