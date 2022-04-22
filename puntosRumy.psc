@@ -15,10 +15,14 @@ Proceso puntosRumy
 	Definir juego Como Entero;
 	Definir sumaColumna1 Como Entero;
 	Definir sumaColumna2 Como Entero;
-
+	Definir contador Como Entero;
+	
+	contador<-1;
 	//Matriz para rellenar los datos
 	Para fila<-0 Hasta 9 Con Paso 1 Hacer
 		juego<-1;
+		Escribir "Ronda: ", contador;
+		contador<-contador+1;
 		para columna<-0 Hasta 1 con paso 1 Hacer
 			Escribir "Escriba la puntuacion del jugador ", juego;
 			Leer puntuacion;
